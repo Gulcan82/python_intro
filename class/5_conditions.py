@@ -11,13 +11,5 @@ elif temperatur <= 0:
 else:
    print("Es ist OK.")
 
-'''
-condition = False
-
-if condition == True:
-    print("Die Bedingung ist wahr.")
-else:
-    print("Die Bedingung ist falsch.")
 
 print("Ende des Programms.")
-'''
